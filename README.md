@@ -1,16 +1,44 @@
-## Hi there 👋
+# Carlos Alberto  
 
-<!--
-**carlosatec/carlosatec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e sou apaixonado por tecnologia. 
+Sempre disposto a aprender algo novo.
 
-Here are some ideas to get you started:
+## Áreas de Experiência
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sistemas Operacionais
+- Administração de servidores **Windows** e **Linux**.
+
+### Segurança e Redes
+- Configuração e gestão de:
+  - Firewalls
+  - DHCP
+  - DNS
+  - Active Directory
+
+### Soluções de Colaboração e Virtualização
+- Implementação e gerenciamento de:
+  - **Nextcloud**
+  - **TrueNAS**
+  - Virtualização com **Hyper-V** e **Proxmox**
+
+### Monitoramento e Backup
+- Monitoramento de redes com:
+  - **Zabbix**
+  - **Grafana**
+- Soluções de backup com:
+  - **Veritas Backup Exec**
+
+### Redes e Wireless
+- Conhecimento em redes e tecnologias **wireless**.
+
+## Certificações
+
+- **Microsoft AZ-900**: Azure Fundamentals  
+- **Microsoft SC-900**: Security, Compliance, and Identity Fundamentals
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlosatec/)
+[![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=instagram)](https://www.instagram.com/carlosatec/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosatec&show_icons=true&theme=radical)
